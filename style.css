@@ -1,0 +1,20 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{
+	background-image: url("image 2.webp");
+	background-repeat: no-repeat;
+	background-size: cover;
+	
+}
+h1.HEAD{
+	text-align: center;
+	text-decoration: underline;
+	text-shadow: 2px 2px 5px red;
+	font font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+	font font-style: oblique;
+	font font-weight: 600;
+	font font-variant: normal;
+	font-size: 50px;
+
+}
